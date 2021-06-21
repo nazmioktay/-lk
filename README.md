@@ -1,0 +1,2 @@
+# -lk
+İlk deneme
